@@ -3,6 +3,7 @@ import Cross from './cross';
 import Dash from './dash';
 import CrossDash from './cross-dash';
 import Dot from './dot';
+import DotSmall from './dot-small';
 import DotDash from './dot-dash';
 import Disc from './disc';
 import Ring from './ring';
@@ -26,6 +27,7 @@ export const shapes = {
   'dash': Dash,
   'cross-dash': CrossDash,
   'dot': Dot,
+  'dot-small': DotSmall,
   'dot-dash': DotDash,
   'disc': Disc,
   'ring': Ring,
